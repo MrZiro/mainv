@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload PDF</title>
+</head>
+<body>
+    <h3>Upload a PDF file to split:</h3>
+    <form method="post" enctype="multipart/form-data" action="{% url 'upload' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Upload and Split PDF">
+    </form>
+    <p>After uploading, you will be redirected to a page where you can check the processing status.</p>
+</body>
+</html>

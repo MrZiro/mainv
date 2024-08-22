@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crested-guru-429911-g4",
+  "private_key_id": "08e1001da7cd1ee42a3ae98d0ccced1dc241c956",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgy1TWQvcrqy7+\nngEnVHQqHG8JAm46v/LtNQam+sA3vtrMUUBlOFGnb1NHVcmljgqBBrQxGP3mQs01\nnkZTXs8XSNiBJa4CYG2KBqy0Pxw2ToEqLitpMjj1wnW3U7rly5jhTSopgmPl44sT\nHXH7w0U3wbZxtbaopwFHS/2OioqJfA7S/SipuAdalNOjTT35ECs1P0QiMXNPpIgF\n5/Xyc2mT3gHpY9HYOQy7o31ar8WEySA9doJf0ykibpEVUsmwtajJtwCMqK4fLWiv\n/7c2efZQUUlhzd3M9X1YfzmO85vkpa5X4ZZYQL7UqIy6E59PPMTM+8n0AmBj+rav\nakbG9BOpAgMBAAECggEABsvsHJhns+Kq/FviZu6vcFOTr+5N3tGGllc485hCxWMd\nrX2REBY8LAHNI9qbnjytnfw8uUc5/Ysnpb4Nxpq0fI1O4CVJwH5Mna/K312RjDbE\n8pWmrm4kho1/MKNrPCkJynAwDuFyO+E324l8QWzkwUbAtvgRg08igzMnlxMCaG2T\nArvj9uHU1Bk234bCg1CS0jM1CErTAQFLh6wIzT2lWkLYGL9i/FypndTgt/3/HnwT\ne+qsNr7tMtpwWZ48oiDeWS3lDEvDQJRo+VbX8Fqk7XvFay9QJBrG0kiI3V0AA2Ut\nuBabVxZBfbB5EbscYnFVn+OsihFHPu1AYL1nJpLxnwKBgQDOKACC5Q6fcQ8LBAvv\nXDLM5/DDW0xEUSuCUFV+npkuhk/XuVyJw5aqMnZy7P3P0LXlgWstjT44Cr71dNp5\ni1L2aAoonJMa/sCo6o7Ne85zPYXjzNw3GeFFY85LAzPyRHOUHpPTfhMFPer3lOCy\ndgLaXCsi9HX4dlu+huGJHMj/+wKBgQDHq6iIfoYJ053gFpQ+ipb3voaPm/uJHNlc\nHmDP1X9lL8LGxfhtfCd6MbUVcAwVS4mo7C1TzFS4P3j5ERU1HLq1BrvHLZJrpmTA\nGjtNlCwUNkNH+5voZcR8+6KrzVvx2zri85Qj8ftGihlDbuWwGOjVFoPhAuxJWe30\nWtPCfNyVqwKBgEaYOCSan3lF0+rnxdZ/cf3s5ute1i0GxqlnLP+g+7+MysaKeP/L\n9Env4dPVB80kIUWoHbWJimbSdzXCgBXi+dPbKK9jfpRd7Edrmt8OqFGaHcE2I6rS\nt+t1E+1n+V/axOFR3zkrEQRYgZ+qYY97DdsMeNENeWBN13jU42J6cvIFAoGAG/G2\nQIQUlkN7kOUYEjirMDkF9AtMhL/425+UxQGINs0cYV1Li2cYz00tnrZzunc76NxE\n67lpEfAwKgtuAGTo7HToytNh7pb2+ruxGQZntNxzRhu8kiXL/gHpnkm7WHnqH+Ef\nFnjDRfgF2R4oHyEdVNU118Pk9c8UMmKTyGBZLskCgYA/d4QWSaN9LYANhtqaLrjd\nCEwsHL2+BNBuSuZEx9vUEEWv+rPy663nCe2siCOD4cBAK13Yba9tekdfkjtSaKAT\nHTlFnuFqAZf0uk+Oo6Hr3GYUk0S1Z/RdKbLLZVGUfWsNRE8BKkY9v6FvflfU1nLo\nVt2oYfCbxO/8z6cLwvb+2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-pythonapp@crested-guru-429911-g4.iam.gserviceaccount.com",
+  "client_id": "117878930190339537224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-pythonapp%40crested-guru-429911-g4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
